@@ -1,4 +1,4 @@
 # comp562-final-project
 
 ## Dataset Used:
-[Diabetes Kaggle Dataset](https://www.kaggle.com/datasets/akshaydattatraykhare/diabetes-dataset)
+[German Credit Risk Dataset](https://www.kaggle.com/datasets/uciml/german-credit)
