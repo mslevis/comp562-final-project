@@ -12,7 +12,7 @@ By Owen Tan, Rena Pei Qi Chong, Ming Feng Chua, Alissa
 Credit risk assessment has always been a vital part of the work of financial institutions. It is imperative for them to determine each individual's credit risk accurately to reduce the risk of defaulting on each credit that they gave. While traditional credit risk assessment exists, machine learning models are now more used in the industry because their prediction is more accurate.
 
 ## Dataset
-[German Credit Risk Dataset](https://www.kaggle.com/datasets/uciml/german-credit)
+[German Credit Risk Dataset](https://archive.ics.uci.edu/ml/datasets/Statlog+%28German+Credit+Data%29)
 
 Our dataset consists of real-life individual data from Germany who took a loan and their credit risk (good or bad). There are 10
 features in the data: age, sex, job, housing, saving accounts,
