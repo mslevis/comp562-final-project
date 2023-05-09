@@ -22,4 +22,4 @@ good or bad credit risk in our machine learning model.
 
 
 ## Ideas
-We first cleaned the data and preprocessed all of the categorical data with one-hot encoding. We then used the sci-kit library to do: Decision Trees, Random Forest, Logistic Regression, and Naive Bayes. After tuning the hyperparameters, we evaluated all 4 models and concluded that logistic regression and decision trees perform the best in predicting the credit risk of individuals. 
+We first cleaned the data and preprocessed all of the categorical data with one-hot encoding. We then used the sci-kit library to do: Decision Trees, Random Forest, Logistic Regression, and Naive Bayes. After tuning the hyperparameters, we evaluated all 4 models and concluded that random forest performs the best in predicting the credit risk of individuals.
